@@ -1,2 +1,2 @@
 # Backend-MERN
-it contains my learnings of backend MERN with code and small &amp; simple projects. 
+it contains my learnings of backend MERN with small &amp; simple projects. 
